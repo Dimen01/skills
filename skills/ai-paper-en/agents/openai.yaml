@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Paper Revision"
+  short_description: "English paper revision for AI systems, chips, compilers, and architecture"
+  default_prompt: "Use $ai-paper-en to revise my English AI systems, chip, compiler, or architecture paper for clearer contribution framing, structure, and academic prose."

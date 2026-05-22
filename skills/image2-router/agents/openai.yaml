@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image2 Router"
+  short_description: "Route image2.0 generation and edits"
+  default_prompt: "Use $image2-router to generate or edit an image with image2.0."

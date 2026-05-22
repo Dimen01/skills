@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI系统论文修订"
+  short_description: "Chinese thesis revision for AI systems, chips, compilers, and architecture"
+  default_prompt: "Use $ai-paper-zh to revise my Chinese AI systems, chip, compiler, or architecture thesis for clearer contribution framing and natural academic prose."
