@@ -7,6 +7,7 @@ Public Codex skill definitions and helper scripts.
 - `ai-paper-en`: English academic paper and thesis revision for AI systems, chips, compilers, computer architecture, and systems work.
 - `ai-paper-zh`: Chinese academic paper and thesis revision for AI systems, chips, compilers, computer architecture, and systems work.
 - `image2-router`: OpenAI-compatible image generation and editing router for several configurable providers.
+- `operator-development`: pymodel operator development and modification workflow for LPU/NPU/AI accelerator projects, including computation graph confirmation, tile/buffer planning, task bin generation, set-wait/fence insertion, cmodel replay, and RTL/UVM debug.
 - `xwave`: Hardware waveform debugging workflow for xwave-supported traces, AXI/APB hangs, RTL correlation, and debug reports.
 
 ## Repository Layout
@@ -16,6 +17,7 @@ skills/
   ai-paper-en/
   ai-paper-zh/
   image2-router/
+  operator-development/
   xwave/
 ```
 
